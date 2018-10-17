@@ -29,3 +29,6 @@ To download the data open the `images.js` file adapt the current round of the ga
 * The team with the best result in the game will get the best grade.
 * You can hire 4000 people in one round and fire 3000 in the next round without any consequences.
 * It does not matter at all if you fire people after you have finished all the projects. Just say s.th. like - "We founded a new IT company and the developers are there".
+
+# No liability
+I do not assume any liability or guarantee for anything. This only based on my experience with the game of winter term 2017.
