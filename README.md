@@ -3,7 +3,18 @@
 ## Scraper
 
 The scraper scrapes all the data of the game via the website (http://tum.go4c.org). The data will then be stored in EXCEL spread-sheets.
+
 It also downloads all images of the game.
+
+## How to use it
+
+Install node on you computer. Open the `creds.json` file and add your username and password. 
+
+### Data
+To download the data open the `index.js` file adapt the current round of the game and run it via `node index.js`.
+
+### Images
+To download the data open the `images.js` file adapt the current round of the game and run it via `node images.js`.
 
 ## Takeaways regarding the game
 
