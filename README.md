@@ -31,4 +31,4 @@ To download the data open the `images.js` file adapt the current round of the ga
 * It does not matter at all if you fire people after you have finished all the projects. Just say s.th. like - "We founded a new IT company and the developers are there".
 
 # No liability
-I do not assume any liability or guarantee for anything. This only based on my experience with the game of winter term 2017.
+I do not assume any liability or guarantee for anything. This is only based on my experience with the game in the winter term 2017.
