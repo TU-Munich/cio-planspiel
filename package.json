@@ -11,7 +11,7 @@
   "dependencies": {
     "async": "^2.6.0",
     "excel4node": "^1.2.1",
-    "puppeteer": "^0.12.0",
+    "puppeteer": "^1.13.0",
     "request": "^2.83.0"
   }
 }
