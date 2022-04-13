@@ -9,7 +9,7 @@
   "author": "Sebastian Erhardt",
   "license": "ISC",
   "dependencies": {
-    "async": "^2.6.0",
+    "async": "^3.2.2",
     "excel4node": "^1.2.1",
     "puppeteer": "^1.13.0",
     "request": "^2.83.0"
